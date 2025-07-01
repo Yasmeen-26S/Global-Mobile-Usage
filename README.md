@@ -74,7 +74,7 @@ This interactive dashboard provides:
 **Yasmeen Shah**  
 💼 Aspiring Data/Business Analyst  
 📍 Mumbai, India  
-🌐 [LinkedIn (optional)](https://linkedin.com/in/your-profile)
+🌐 [LinkedIn (https://www.linkedin.com/in/yasmeen-shah-a4144025a)
 
 ---
 
